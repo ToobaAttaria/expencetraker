@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expencetraker/static/css/main.69dd64af.css",
+    "main.js": "/expencetraker/static/js/main.c6283a06.js",
+    "static/js/488.9f0001e9.chunk.js": "/expencetraker/static/js/488.9f0001e9.chunk.js",
+    "index.html": "/expencetraker/index.html",
+    "main.69dd64af.css.map": "/expencetraker/static/css/main.69dd64af.css.map",
+    "main.c6283a06.js.map": "/expencetraker/static/js/main.c6283a06.js.map",
+    "488.9f0001e9.chunk.js.map": "/expencetraker/static/js/488.9f0001e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69dd64af.css",
+    "static/js/main.c6283a06.js"
+  ]
+}
